@@ -1,0 +1,23 @@
+C:\DEV\nanninzo\nanninzo\bin\Debug\My Project\Resources.resx
+C:\DEV\nanninzo\nanninzo\bin\Debug\My Project\Resources.Designer.vb
+C:\DEV\nanninzo\nanninzo\bin\Debug\Nnz.exe.config
+C:\DEV\nanninzo\nanninzo\bin\Debug\Nnz.exe.manifest
+C:\DEV\nanninzo\nanninzo\bin\Debug\Nnz.application
+C:\DEV\nanninzo\nanninzo\bin\Debug\Nnz.exe
+C:\DEV\nanninzo\nanninzo\bin\Debug\Nnz.pdb
+C:\DEV\nanninzo\nanninzo\bin\Debug\Nnz.xml
+C:\DEV\nanninzo\nanninzo\obj\Debug\ResolveAssemblyReference.cache
+C:\DEV\nanninzo\nanninzo\obj\Debug\ksgtools.Dialog1.resources
+C:\DEV\nanninzo\nanninzo\obj\Debug\ksgtools.Dialog2.resources
+C:\DEV\nanninzo\nanninzo\obj\Debug\ksgtools.MessageDialog.resources
+C:\DEV\nanninzo\nanninzo\obj\Debug\ksgtools.FontDetail.resources
+C:\DEV\nanninzo\nanninzo\obj\Debug\ksgtools.Form1.resources
+C:\DEV\nanninzo\nanninzo\obj\Debug\ksgtools.Resources.resources
+C:\DEV\nanninzo\nanninzo\obj\Debug\ksgtools.Jimaku.resources
+C:\DEV\nanninzo\nanninzo\obj\Debug\ResGen.read.1.tlog
+C:\DEV\nanninzo\nanninzo\obj\Debug\ResGen.write.1.tlog
+C:\DEV\nanninzo\nanninzo\obj\Debug\Nnz.exe.manifest
+C:\DEV\nanninzo\nanninzo\obj\Debug\Nnz.application
+C:\DEV\nanninzo\nanninzo\obj\Debug\Nnz.exe
+C:\DEV\nanninzo\nanninzo\obj\Debug\Nnz.xml
+C:\DEV\nanninzo\nanninzo\obj\Debug\Nnz.pdb
