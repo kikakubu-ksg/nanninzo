@@ -24,4 +24,4 @@ How to use
 
 Issues  
 ・Kagamin2の鏡ツリー情報取得したい  
-・  
+・オプション表示で落ちる  
